@@ -1,0 +1,21 @@
+# Jupyter Notebook stuff
+.ipynb*
+
+# All data
+/submissions
+/submissions_previous
+
+/submissions_scraped
+/submissions_scraped_previous
+
+all_ids_previous.csv
+all_ids_withsr_previous.csv
+all_ids_withsr.csv
+all_ids.csv
+
+# Sensitive infos
+/reddit_access.ipynb
+
+# Scraping
+/submissions_scraping*
+/comments_scraping*
