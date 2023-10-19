@@ -19,3 +19,6 @@ all_ids.csv
 # Scraping
 /submissions_scraping*
 /comments_scraping*
+
+# File locks
+.~*
